@@ -1,0 +1,21 @@
+Welcome to Termux!
+
+Wiki:            https://wiki.termux.com
+Community forum: https://termux.com/community
+Gitter chat:     https://gitter.im/termux/termux
+IRC channel:     #termux on freenode
+
+Working with packages:
+ * Search packages:   pkg search <query>
+ * Install a package: pkg install <package>
+ * Upgrade packages:  pkg upgrade
+
+App horu Termux
+
+ *App horu Facebook
+   https://www.facebook.com/groups/131111414874304/
+ *App horu Youtube
+   https://bit.ly/2WJICmu
+
+Report issues at https://termux.com/issues.
+ 
