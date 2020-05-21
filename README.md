@@ -1,5 +1,5 @@
 
-#How to install tool
+## How to install tool
 [Just copy paste commands]
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ## update
@@ -28,12 +28,13 @@
 ▀▀▀▀▀▀▀▀▀
 ❌ bash remove.sh
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
-Who is App horu
+# Who is App horu
 
-# App_Horu official Started on Facebook 2020/02/20
-The Founder of # App_Horu is # Eshan_Theekshana
+### App_Horu official Started on Facebook 2020/02/20
+The Founder of # App_Horu is 
+### Eshan_Theekshana
 Also we have our own Youtube channel. Subscribe it and join with us.
 
 Links
