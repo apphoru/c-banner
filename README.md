@@ -8,7 +8,7 @@
 
 2. pkg upgrade
 
-##Install
+## Install
 ▀▀▀▀▀▀▀
 3. pkg install figlet
 
