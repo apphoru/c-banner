@@ -44,7 +44,7 @@ echo
 
 #create temp
 nano apphoru
-echo "cat apphoru | lolcat --"$anm" " > Temp.txt
+echo "cat apphoru | lolcat --"$anm" --spread=1 --speed=100 " > Temp.txt
 echo "cd" > Temp2.txt
 echo "cd /data/data/com.termux/files/usr/etc/" > Temp1.txt
 echo "PS1='\[\e[31m\]>\[\e[0m\]\[\e[93m\]\A\[\e[0m\]\[\e[31m\]>\[\e[0m\]\[\e[36m\]\w\[\e[0m\]\[\e[31m\]>\[\e[0m\]\[\e[39m\]\n\[\e[0m\]\[\e[31m\]>>>\[\e[0m\]\[\e[32m\]'" > Temp0.txt
