@@ -12,5 +12,8 @@ apt install cowsay -y
 apt install nano -y
 apt install ruby -y
 echo
+cd
+cd c-banner
+rm -rf req.sh
 figlet Done | lolcat
 echo
