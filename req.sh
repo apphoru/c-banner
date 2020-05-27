@@ -6,6 +6,7 @@ mv data_03 /data/data/com.termux/files/home/c-banner/Data_Files/
 mv data.sh /data/data/com.termux/files/home/c-banner/Data_Files/
 mv README.md /data/data/com.termux/files/home/c-banner/Data_Files/
 mv AHdata.sh /data/data/com.termux/files/usr/etc/
+mv UP.sh /data/data/com.termux/files/usr/etc/
 
 cd Data_Files
 bash data.sh
