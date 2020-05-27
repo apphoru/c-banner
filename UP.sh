@@ -8,6 +8,9 @@ cd c-banner
 cd Data_Files
 bash data_04.sh
 clear
+cd
+cd
+cd c-banner
 figlet Updated
 echo "Now You Can Run Program"
 echo "[Just copy paste ]"
