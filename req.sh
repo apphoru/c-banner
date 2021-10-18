@@ -1,4 +1,4 @@
-mkdir .Data_Files
+mkdir Data_Files
 mv data_00 /data/data/com.termux/files/home/c-banner/Data_Files/
 mv data_01 /data/data/com.termux/files/home/c-banner/Data_Files/
 mv data_02 /data/data/com.termux/files/home/c-banner/Data_Files/
