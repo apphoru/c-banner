@@ -30,15 +30,9 @@
 # Who is App horu
 
 ### App_Horu official Started on Facebook 2020/02/20
-The Founder of # App_Horu is 
-### Eshan_Theekshana
-Also we have our own Youtube channel. Subscribe it and join with us.
 
 Links
 Facebook Group
 :-https://www.facebook.com/groups/131111414874304/
-
-Youtube Channel
-:-https://www.youtube.com/channel/UCaZUWHSho8-s3GECYrhBwqg
 
 ▁▃▅▆ 🔰 Team 🔰 App horu 🔰 ▆▅▃▁
