@@ -12,16 +12,18 @@
 3. pkg install figlet
 
 4. pkg install git
+   
+5. pkg install ruby
 
 ## Download
 
-5. git clone 
+6. git clone 
 
 ## Run
 
-6. bash req.sh
+7. bash req.sh
 
-7. bash c-banner.sh
+8. bash c-banner.sh
 
 ## Remove
 
